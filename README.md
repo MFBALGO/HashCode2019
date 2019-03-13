@@ -1,0 +1,3 @@
+# HashCode2019
+
+UNFINISHED PROJECT
